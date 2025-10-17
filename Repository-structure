@@ -1,0 +1,20 @@
+Data-Analyst-Portfolio/
+├── README.md                 # Main portfolio landing page
+├── index.html               # GitHub Pages site
+├── assets/
+│   ├── images/              # Screenshots, diagrams
+│   ├── resume.pdf
+│   └── certifications/
+├── projects/
+│   ├── project1-titanic/
+│   │   ├── README.md
+│   │   ├── notebook.ipynb
+│   │   ├── data/
+│   │   ├── outputs/
+│   │   └── oac-dashboard.png
+│   ├── project2-sales/
+│   └── ... (similar structure)
+├── sql-scripts/
+├── dashboards/
+└── blog/
+    └── how-i-built-my-first-oac-dashboard.md
