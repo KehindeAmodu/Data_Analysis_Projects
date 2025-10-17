@@ -10,7 +10,7 @@ A Data Analyst with strong OCI foundation and database management. Completed OCI
 
 **Skills:** SQL, Python (pandas, numpy), OCI Analytics Cloud, Tableau, Power BI, Data Visualization, ETL
 
-**Contact:** [LinkedIn](https://linkedin.com/in/kehinde-amodu)| [Email](mail.me@kehindeamodu.com)
+**Contact:** [LinkedIn](https://linkedin.com/in/kehinde)| [Email](mail.me@kehindeamodu.com)
 
 ---
 
@@ -66,4 +66,4 @@ A Data Analyst with strong OCI foundation and database management. Completed OCI
 ## 📫 Let's Connect!
 I'm actively seeking Data Analyst roles and open to networking. Check out my projects and let's discuss how data can drive business decisions!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kehinde-amodu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kehinde)
